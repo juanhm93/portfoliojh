@@ -1,0 +1,14 @@
+{
+  "name": "portfoliojh",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Juan Hernandez",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive" 
+  },
+  "author": "Juan Hernandez",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
